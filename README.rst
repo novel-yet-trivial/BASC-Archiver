@@ -24,8 +24,8 @@ thread:
 -  Can be restarted at any time.
 -  Threaded downloading to download multiple files at the same time.
 
-The **thread-archiver** replaces the typical “Right-click Save As, Web
-Page Complete” action, which does not save full-sized images or JSON. It
+The **thread-archiver** replaces the typical "Right-click Save As, Web
+Page Complete" action, which does not save full-sized images or JSON. It
 works as a guerilla, static HTML alternative to Fuuka.
 
 
